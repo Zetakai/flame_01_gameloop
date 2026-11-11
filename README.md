@@ -1,11 +1,10 @@
 # Flame Game Loop (Tugas Kelompok)
 
-**IF224 - Pemrograman Aplikasi Mobile**
+**IF140 - Pemrograman Game Mobile**
 
 **Authors:**
 - Muhammad Farid Zaki (1003240010)
 - Galih Sukristyan Saputra (1003240006)
-- Tarmidi Jaelani (1003240052)
 
 **Pengajar:** BAMBANG WIDODO S.Kom., M.T.I
 
