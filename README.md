@@ -1,5 +1,14 @@
 # Flame Game Loop (Tugas Kelompok)
 
+**IF224 - Pemrograman Aplikasi Mobile**
+
+**Authors:**
+- Muhammad Farid Zaki (1003240010)
+- Galih Sukristyan Saputra (1003240006)
+- Tarmidi Jaelani (1003240052)
+
+**Pengajar:** BAMBANG WIDODO S.Kom., M.T.I
+
 Contoh game loop dari modul "Sesi 10 Membuat Game dengan Flame (2) Struktur Game Loop".
 
 Tugas kelompok: warna background diganti dari merah menjadi hijau.
